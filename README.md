@@ -41,7 +41,7 @@ The participants of the conference were involved in the game in the space of
 conference hall, Innopolis streets and even villages nearby, with the real prizes, rewards. 
 That was a real fun and profit for several hundreds of the first players of IZX game.
  
-_Izetex LTD. PTE. is registered in Singapore. It specializes in developing solutions for 
+_Izetex PTE.Ltd.  is registered in Singapore. It specializes in developing solutions for 
 loyalty programs, based on the specialized cryptocurrency, IZX token. 
 Izetex develops the software using Blockchain technologies, data analysis, machine learning, 
 augmented and virtual reality. Izetex team formed from the specialists in blockchain, 
