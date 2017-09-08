@@ -46,3 +46,13 @@ loyalty programs, based on the specialized cryptocurrency, IZX token.
 Izetex develops the software using Blockchain technologies, data analysis, machine learning, 
 augmented and virtual reality. Izetex team formed from the specialists in blockchain, 
 smart contracts, direct marketing and algorithmic advertisement technologies._
+
+## References
+
+[1] Izetex PTE.Ltd. web site: https://izx.io
+
+[2] IZX application web site: http://izetex.io
+
+[3] Google Play IZX application: https://play.google.com/store/apps/details?id=io.izetex.one
+
+[4] Apple AppStore IZX application: https://itunes.apple.com/us/app/izx/id1273219641?l=ru&ls=1&mt=8
